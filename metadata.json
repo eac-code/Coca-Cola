@@ -1,0 +1,6 @@
+{
+  "name": "Coca-Cola Marketing Hub",
+  "description": "A premium, high-converting React marketing platform for Coca-Cola, featuring interactive storytelling, custom product showcases, exit-intent modals, rewards, and technical SEO layers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
